@@ -1,6 +1,6 @@
 # Lav Kush — Cloud & DevOps Aspirant Portfolio
 
-An AI-assisted portfolio implementation of the responsive website described in my BCA project entry. It was prepared from that project brief; review and personalize it before presenting every implementation detail as independent hands-on work.
+portfolio implementation of the responsive website described in my BCA project entry. It was prepared from that project brief; review and personalize it before presenting every implementation detail as independent hands-on work.
 
 The static site uses HTML, CSS, and vanilla JavaScript to present coursework projects, current technical foundations, education, and contact links.
 
